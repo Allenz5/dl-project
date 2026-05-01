@@ -1,0 +1,4 @@
+Model,Overall Acc,Mean/Class,Params(M),Train h
+SortedMLP,0.2508,0.1790,1.71,0.02
+PointNetVanilla,0.7869,0.7097,0.82,0.23
+PointNet,0.7674,0.6809,3.48,0.51
